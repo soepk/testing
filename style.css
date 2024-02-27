@@ -8,3 +8,7 @@ section{
   font-size: 20px;
   line-height: 1.4;
 }
+footer{
+  width: 200px;
+  background-color: #FFEE;
+}
